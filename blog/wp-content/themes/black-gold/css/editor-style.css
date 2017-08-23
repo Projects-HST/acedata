@@ -1,0 +1,101 @@
+/*
+* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=  
+*            BODY
+* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+*/
+
+body {
+    font-family: 'Andada', serif;
+    font-size: 16.8px;
+}
+
+/*
+* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=  
+*          HEADINGS
+* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+*/
+
+h1 {
+  font-size: 43.2px;
+}
+h2 {
+  font-size: 38.400000000000006px;
+}
+h3 {
+  font-size: 33.599999999999994px;
+}
+h4 {
+  font-size: 28.799999999999997px;
+}
+h5 {
+  font-size: 21.6px;
+}
+h6 {
+  font-size: 19.200000000000003px;
+}
+h5,
+h6 {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+a {
+    color: #151e1f;
+}
+
+/*
+* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=  
+*            LISTS
+* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+*/
+
+ul li {
+  list-style: none;
+}
+ul ul {
+  margin-top: 12px;
+}
+ul ul li {
+  padding: 6px 0 12px 24px;
+}
+ul ul li:first-child {
+  padding-top: 12px;
+}
+main ul {
+  display: inline-block;
+}
+main a {
+  text-decoration: underline;
+}
+main li {
+  margin: 12px 0;
+  padding-bottom: 12px;
+}
+main li ul {
+  border-top: 1px solid #e3e3e3;
+}
+
+/*
+* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=  
+*           QUOTES
+* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+*/
+
+blockquote {
+  border-left: 5px solid #e2dad4;
+}
+blockquote p {
+    margin-left: 12px;
+}
+
+/*
+* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=  
+*       HORIZONTAL RULE
+* -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+*/
+
+hr {
+  height: 2px;
+  border: none;
+  background: #e4e4e4;
+}

@@ -1,0 +1,275 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-20 22:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:22
+msgid "404. Page Not Found"
+msgstr ""
+
+#: 404.php:23
+msgid "The requested page could not be found."
+msgstr ""
+
+#: 404.php:26
+msgid "Would you like to search for it?"
+msgstr ""
+
+#: 404.php:30
+msgid "Pages Index"
+msgstr ""
+
+#: archive.php:28
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: archive.php:31
+#, php-format
+msgid "Category Archives for %s"
+msgstr ""
+
+#: archive.php:34
+#, php-format
+msgid "Tag Archives for %s"
+msgstr ""
+
+#: archive.php:37
+#, php-format
+msgid "Daily Archives for %s"
+msgstr ""
+
+#: archive.php:40 archive.php:43
+#, php-format
+msgid "Monthly Archives for %s"
+msgstr ""
+
+#: archive.php:45
+msgid "Archives"
+msgstr ""
+
+#: comments.php:25
+#, php-format
+msgctxt "comments title"
+msgid "One thought on \"%2$s\""
+msgid_plural "%1$s thoughts on \"%2$s\""
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:46
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:47
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:156
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:175
+msgid "Home Sidebar"
+msgstr ""
+
+#: functions.php:177
+msgid "The sidebar showcased on the main area of your screen"
+msgstr ""
+
+#: functions.php:186
+msgid "Footer Sidebar"
+msgstr ""
+
+#: functions.php:188
+msgid "The sidebar positioned in the footer at the bottom of the screen"
+msgstr ""
+
+#: functions.php:282 includes/comment_form.php:12
+msgid "Post Comment"
+msgstr ""
+
+#: header.php:63 includes/customizer.php:22
+msgid "Sam Powell"
+msgstr ""
+
+#: search.php:27
+msgid "Search results for"
+msgstr ""
+
+#: search.php:29
+msgid " all Posts"
+msgstr ""
+
+#: search.php:39
+msgid "No Search results found for "
+msgstr ""
+
+#: search.php:42
+msgid "There are currently no posts with that search term. "
+msgstr ""
+
+#: single.php:32 templates/template-content.php:22
+msgid "by"
+msgstr ""
+
+#: single.php:36 templates/template-content.php:28
+msgid "on"
+msgstr ""
+
+#: single.php:39 templates/template-content.php:31
+msgid "at"
+msgstr ""
+
+#: includes/comment_form.php:9
+msgid "Leave a Reply"
+msgstr ""
+
+#: includes/comment_form.php:10
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: includes/comment_form.php:11
+msgid "Cancel Reply"
+msgstr ""
+
+#: includes/comment_form.php:15
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: includes/comment_form.php:21
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: includes/comment_form.php:27
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: includes/comment_form.php:34
+msgid "Your email address will not be published."
+msgstr ""
+
+#: includes/comment_form.php:39
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: includes/customizer.php:28
+msgid "Set the Header Text"
+msgstr ""
+
+#: includes/customizer.php:40
+msgid "Header Text Shadow Color"
+msgstr ""
+
+#: includes/customizer.php:52
+msgid "Site Title Color"
+msgstr ""
+
+#: includes/customizer.php:64
+msgid "Header Box Color"
+msgstr ""
+
+#: includes/customizer.php:77
+msgid "Display Header Box"
+msgstr ""
+
+#: includes/customizer.php:91
+msgid "Left"
+msgstr ""
+
+#: includes/customizer.php:92
+msgid "Right"
+msgstr ""
+
+#: includes/customizer.php:94
+msgid "Position of Home Sidebar"
+msgstr ""
+
+#: includes/customizer.php:100
+msgid "Home Sidebar Layout"
+msgstr ""
+
+#: includes/customizer.php:101
+msgid "Controls the positioning of the main sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Page"
+msgstr ""
+
+#: templates/template-blog.php:29
+msgid "No Current Posts"
+msgstr ""
+
+#: templates/template-blog.php:30
+msgid "There are currently no posts"
+msgstr ""
+
+#: templates/template-content.php:41
+msgid "Category"
+msgstr ""
+
+#: templates/template-content.php:47
+msgid "Tags"
+msgstr ""
+
+#: templates/template-content.php:65
+msgid "Read More"
+msgstr ""
+
+#: templates/template-navigation.php:18
+msgid "Toggle navigation"
+msgstr ""
+
+#: templates/template-pagination.php:18
+msgid "Back"
+msgstr ""
+
+#: templates/template-pagination.php:19
+msgid "Next"
+msgstr ""
+
+#. Name of the theme
+msgid "Black &amp; Gold"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"A clean styled WordPress theme. Designed to be elegant yet readable. "
+"Suitable for a single blogger."
+msgstr ""
+
+#. Author of the theme
+msgid "Lewis Alberto Briffa"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://labdevelopments.byethost16.com/"
+msgstr ""
