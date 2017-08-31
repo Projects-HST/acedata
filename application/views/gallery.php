@@ -4,7 +4,7 @@
   padding: 20px;
 }
 </style>
-<div class="page-title-cont page-title-large2-cont bg-gray" style="background-image: url(<?php echo base_url(); ?>assets/page/gallery.jpg);">
+<div class="page-title-cont page-title-large2-cont bg-gray back" style="background-image: url(<?php echo base_url(); ?>assets/page/gallery.jpg);">
         <div class="relative container align-left">
           <div class="row">
 

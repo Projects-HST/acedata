@@ -395,7 +395,7 @@
                       </li>
 
                       <!-- Item -->
-                     
+
 
                     </ul>
 
@@ -524,3 +524,6 @@
 
     </div>
 </div>
+<script>
+$("#homemenu").addClass("current");
+</script>

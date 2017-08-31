@@ -4,7 +4,7 @@
     color: rgba(255,255,255,.7);
 }
 </style>
-<div class="page-title-cont page-title-large2-cont" style="background-image: url(<?php echo base_url(); ?>assets/page/historybanner.jpg);height:400px;    background-repeat: no-repeat;">
+<div class="page-title-cont page-title-large2-cont" style="background-image: url(<?php echo base_url(); ?>assets/page/historybanner.jpg);height:450px;     background-size: 100%;   background-repeat: no-repeat;">
         <div class="relative container align-left">
           <div class="row">
 
@@ -158,3 +158,6 @@
 
   </div>
 </div>
+<script>
+$("#aboutmenu").addClass("current");
+</script>

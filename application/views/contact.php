@@ -1,4 +1,4 @@
-<div class="page-title-large2-cont bg-gray" style="background-image: url(<?php echo base_url(); ?>assets/page/contact.jpg);background-size:100%;height:450px;    background-repeat: no-repeat;">
+<div class="page-title-large2-cont-hidden-xs bg-gray back" style="background-image: url(<?php echo base_url(); ?>assets/page/contact.jpg);background-size:100%;height:450px;    background-repeat: no-repeat;">
         <div class="relative container align-left">
           <div class="row">
 
@@ -20,7 +20,7 @@
 
 
 
-          <div id="blockquotes2" class="page-section p-130-cont bg-gray">
+          <div id="blockquotes2" class="page-section p-50-cont-hidden-xs bg-gray">
             <div class="container">
               <blockquote class="bq2-cont text-center ls-1 font-20 pb-0">
                 <span class="test-quote-before">“</span>Get in touch if you want to make a contact, please fill the contact form below or alternatively call us on the numbers given.<span class="test-quote-after">”</span>
@@ -93,7 +93,7 @@
                     <h3 class="font-josefin"><strong>Production Unit</strong></h3>
                     <p>Door No. 3/304 - F, Kulathur Road,<br> L&T Neelambur by-pass Road, <br>Coimbatore 641 062, India</p>
                   </div>
-                </div> --> 
+                </div> -->
               </div>
 
 
@@ -120,3 +120,6 @@
                     </div>
                 </div>
               </div>
+              <script>
+              $("#contactmenu").addClass("current");
+              </script>

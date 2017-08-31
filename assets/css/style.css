@@ -7192,7 +7192,7 @@ select.input-border {
     padding: 38px 3px 5px;
     margin: 0 12px 17px;
     border-bottom: 2px solid rgba(45, 78, 83, 1);
-    color: #323336
+    color: #f03a0b;
 }
 
 .header-black #main-menu .navbar .nav>li.current>a {
@@ -16756,4 +16756,21 @@ ul#flickr-sfeeds li a img {
     #rs-offset {
         height: 152px
     }
+}
+
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+.slider-container{
+  padding-top: 80px !important;
+}
+.carousel-control{
+  display: none;
+}
+.carousel .item{
+  min-height: 0px important;
+}
+.back{
+  height: auto !important;
+  margin-top: 65px;
+}
 }

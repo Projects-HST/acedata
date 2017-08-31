@@ -1,4 +1,4 @@
-<div class="page-title-cont page-title-large2-cont bg-gray" style="background-image: url(<?php echo base_url(); ?>assets/page/portfolio.jpg);">
+<div class="page-title-cont page-title-large2-cont bg-gray back" style="background-image: url(<?php echo base_url(); ?>assets/page/portfolio.jpg);">
          <div class="relative container align-left">
            <div class="row">
 
@@ -195,3 +195,6 @@
 
        </div>
    </div>
+   <script>
+   $("#portfoliomenu").addClass("current");
+   </script>

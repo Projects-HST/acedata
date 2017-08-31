@@ -102,7 +102,7 @@
                                         <ul class="nav navbar-nav">
 
                                             <!-- MENU ITEM -->
-                                            <li class="parent">
+                                            <li class="parent" id="homemenu">
                                                 <a href="<?php echo base_url(); ?>" class="">
                                                     <div class="main-menu-title">Home</div>
                                                 </a>
@@ -114,7 +114,7 @@
                                                     <div class="main-menu-title">History</div>
                                                 </a>
                                           </li> -->
-                                          <li class="parent">
+                                          <li class="parent" id="aboutmenu">
                                               <a href="<?php echo base_url(); ?>about">
                                                   <div class="main-menu-title">About Us</div>
                                               </a>
@@ -124,12 +124,12 @@
                                            </ul>
                                         </li>
                                             <!-- MEGA MENU ITEM -->
-                                            <li class="parent megamenu">
+                                            <li class="parent megamenu" id="servicemenu">
                                                 <a href="<?php echo base_url(); ?>service">
                                                     <div class="main-menu-title">Services</div>
                                                 </a>
                                           </li>
-                                          <li class="parent">
+                                          <li class="parent" id="portfoliomenu">
                                               <a href="<?php echo base_url(); ?>portfolio">
                                                   <div class="main-menu-title">Portfolio</div>
                                               </a>
@@ -142,7 +142,7 @@
 
                                             <!-- MENU ITEM -->
                                             <li class="parent">
-                                                <a href="<?php echo base_url(); ?>blog">
+                                                <a href="">
                                                     <div class="main-menu-title">Blog</div>
                                                 </a>
                                           </li>
@@ -155,7 +155,7 @@
 
 
                                             <!-- MENU ITEM -->
-                                            <li id="menu-contact-info-big" class="parent megamenu">
+                                            <li id="contactmenu" class="parent megamenu">
                                                 <a href="<?php echo base_url(); ?>contact">
                                                     <div class="main-menu-title">Contact</div>
                                                 </a>

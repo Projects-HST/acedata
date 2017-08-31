@@ -1,4 +1,4 @@
-<div class="page-title-cont page-title-large2-cont" style="background-image: url(<?php echo base_url(); ?>assets/page/about.jpg);background-size:100%;height:400px;    background-repeat: no-repeat;">
+<div class="page-title-cont page-title-large2-cont back" style="background-image: url(<?php echo base_url(); ?>assets/page/about.jpg);background-size:100%;height:400px;    background-repeat: no-repeat;">
          <div class="relative container align-left">
            <div class="row">
 
@@ -89,7 +89,9 @@
        </div>
 
 
-
+       <script>
+       $("#aboutmenu").addClass("current");
+       </script>
 
 
  <!-- WORK PROCESS 2 -->
