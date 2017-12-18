@@ -1,4 +1,4 @@
-<div class="page-title-cont page-title-large2-cont back" style="background-image: url(<?php echo base_url(); ?>assets/page/about.jpg);background-size:100%;height:400px;    background-repeat: no-repeat;">
+<div class="page-title-cont page-title-large2-cont " style="background-size: cover;background-image: url(<?php echo base_url(); ?>assets/page/about.jpg);background-size:cover;padding-top:240PX;">
          <div class="relative container align-left">
            <div class="row">
 
@@ -46,7 +46,7 @@
 
              <div class="member col-md-4 col-sm-4 wow fadeInUp">
                <div class="member-image">
-                 <img class="img-circle" src="<?php echo base_url(); ?>assets/images/team/team-21.jpg" alt="img">
+                 <!-- <img class="img-circle" src="<?php echo base_url(); ?>assets/images/team/team-21.jpg" alt="img"> -->
                </div>
                <h3>Jessica Atkinson</h3>
                <span>VP Engineering</span>
@@ -59,7 +59,7 @@
 
              <div class="member col-md-4 col-sm-4 wow fadeInUp" data-wow-delay="200ms">
                <div class="member-image">
-                 <img class="img-circle" src="<?php echo base_url(); ?>assets/images/team/team-22.jpg" alt="img">
+                 <!-- <img class="img-circle" src="<?php echo base_url(); ?>assets/images/team/team-22.jpg" alt="img"> -->
                </div>
                <h3>Ronald Jackson</h3>
                <span>Founder And Ceo</span>
@@ -72,7 +72,7 @@
 
              <div class="member col-md-4 col-sm-4 wow fadeInUp" data-wow-delay="400ms">
                <div class="member-image">
-                 <img class="img-circle" src="<?php echo base_url(); ?>assets/images/team/team-23.jpg" alt="img">
+                 <!-- <img class="img-circle" src="<?php echo base_url(); ?>assets/images/team/team-23.jpg" alt="img"> -->
                </div>
                <h3>Henry Shelton</h3>
                <span>Creative Director</span>

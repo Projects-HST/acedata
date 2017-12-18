@@ -13934,7 +13934,7 @@ h2.portfolio-timeline-title {
     }
     .header.no-transparent .logo-2,
     .logo-2 {
-        padding: 17px 0 17px 13px
+      padding: 17px 0 17px 13px;
     }
     .logo-row {
         width: auto
@@ -14045,7 +14045,7 @@ h2.portfolio-timeline-title {
     }
     .header {
         position: relative;
-        margin-bottom: -76px;
+        /*margin-bottom: -76px;*/
         width: auto;
         height: auto;
         transition: margin-bottom .28s ease 0s, background .65s cubic-bezier(.55, .06, .35, .38) 0s
@@ -16751,18 +16751,24 @@ ul#flickr-sfeeds li a img {
     height: 186px;
     position: absolute
 }
+.pt-400{
+  padding-top: 400px;
+}
 
 @media (max-width:1024px) {
     #rs-offset {
         height: 152px
     }
 }
-
+.portback{
+  padding-bottom: 290px;
+}
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 .slider-container{
-  padding-top: 80px !important;
+
 }
+
 .carousel-control{
   display: none;
 }
@@ -16770,7 +16776,32 @@ ul#flickr-sfeeds li a img {
   min-height: 0px important;
 }
 .back{
-  height: auto !important;
-  margin-top: 65px;
+  height: auto;
+padding-bottom: 0px;
+padding-top: 0px;
+
 }
+.histback{
+  height: 98px;
+}
+.box{
+  height: auto !important;
+}
+.listservices{
+  padding-left: 0px !important;
+}
+.portback{
+    padding-bottom: 0px;
+
+}
+}
+
+@media only screen and (min-device-width : 375px) and (max-device-width : 667px) {
+.slider-container{
+
+}
+
+}
+.form-control, .login-select, input, select, textarea{
+  font-size: 20px;
 }

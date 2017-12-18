@@ -89,12 +89,22 @@ class Welcome extends CI_Controller {
 	public function notfound()
 	{
 
+
 		$data['meta_title']= 'Happysanz';
 
 		$this->load->view('404');
 
 	}
 
+	public function example(){
+		// $ss=base64_encode("kamla3u@mail.com");
+		$s="kamal4u2u@gmail.com";
+		$out= base64_encode($s);
+		$input = base64_decode($out);//$BB6B>8l8@B,;n(B - testing
+		$input_encoding = 'iso-2022-jp';
+		$inp=iconv($input_encoding, 'UTF-8', $input);
+		echo $inp;
+	}
 
 	public function help()
 	{

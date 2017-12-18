@@ -18,7 +18,15 @@
             <!-- First slide -->
 
             <div class="item active">
-              <img src="<?php echo base_url(); ?>assets/slider/slider.jpg" class="slide-image">
+              <img src="<?php echo base_url(); ?>assets/slider/banner1.jpg" class="slide-image">
+
+            </div>
+            <div class="item">
+              <img src="<?php echo base_url(); ?>assets/slider/banner2.jpg" class="slide-image">
+
+            </div>
+			 <div class="item">
+              <img src="<?php echo base_url(); ?>assets/slider/banner3.jpg" class="slide-image">
 
             </div>
 
@@ -56,7 +64,7 @@
                 <div class="col-lg-3 col-md-12 col-sm-12">
                     <div class="fes1-main-title-cont wow fadeInUp making">
                         <div class="fes1-title-50 font-montserrat ">
-                            <strong>Ace Data <br>Quality Policy  </strong>
+                            <strong>Quality Policy  </strong>
                         </div>
                         <div class="line-5-100"></div>
                     </div>
@@ -82,7 +90,7 @@
                                     <img src="<?php  echo base_url(); ?>assets/images/icons/sd.png" class="img-responsive">
                                 </div>
                                 <!-- <h3 class="font-montserrat"><strong>Solutions</strong></h3> -->
-                                <p>Quick and efficient turnarounds with Speedy Deliveries</p>
+                                <p>Quick and efficient turnarounds with speedy deliveries</p>
                             </div>
                         </div>
 
@@ -96,7 +104,7 @@
                                       <img src="<?php  echo base_url(); ?>assets/images/icons/cl.png" class="img-responsive">
                                 </div>
                                 <!-- <h3 class="font-montserrat"><strong>Creative </strong></h3> -->
-                                <p>Simple, meaningful relationship with Clients</p>
+                                <p>Simple, meaningful relationship with clients</p>
                             </div>
                         </div>
 
@@ -106,7 +114,7 @@
                                     <img src="<?php  echo base_url(); ?>assets/images/icons/cs.png" class="img-responsive">
                                 </div>
                                 <!-- <h3 class="font-montserrat"><strong>Delivery</strong></h3> -->
-                                <p>Quality Service and 100% Customer Satisfaction</p>
+                                <p>Quality service and 100% customer satisfaction</p>
                             </div>
                         </div>
 
@@ -131,7 +139,7 @@
                     <strong>OUR PRINT <br>EXPERTISE</strong>
                   </div>
                   <div class="line-5-100 bg-white"></div>
-                  <div class="fes2-text-cont">Combined with knowledge and experience of over 3 decades, we work meticulously in creating innovative products by delivering competitive pricing, excellent service and highest product standards. </div>
+                  <div class="fes2-text-cont">Combined with knowledge and experience,we work meticulously in creating innovative products by delivering competitive pricing, excellent service and highest product standards. </div>
 
                 </div>
 							</div>
@@ -156,13 +164,16 @@
 					<div class="container">
             <div class="row">
 
-              <div class="col-xs-12 col-sm-4 col-md-4">
+
+              <div class="col-md-2" style="padding-top:100px;">
                 <div class="fes4-box wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
-								  <h2 class="section-title2 font-montserrat"><strong>Our Approach</strong></h2>
+                  <h2 class="section-title2 font-montserrat"><strong>Our Approach</strong></h2>
                   <div class="line-3-75"></div>
-								</div>
-							</div>
-							<div class="col-xs-12 col-sm-4 col-md-4">
+                </div>
+              </div>
+              <div class="col-md-10">
+
+							<div class="col-xs-12 col-sm-4 col-md-6">
                 <div class="fes4-box wow fadeIn" data-wow-delay="200ms" style="visibility: visible; animation-delay: 200ms; animation-name: fadeIn;">
 								  <div class="fes13-title-cont">
 								  	<div class="fes13-box-icon">
@@ -175,7 +186,7 @@
 								  </div>
 								</div>
 							</div>
-              <div class="col-xs-12 col-sm-4 col-md-4">
+              <div class="col-xs-12 col-sm-4 col-md-6">
                 <div class="fes4-box wow fadeIn" data-wow-delay="400ms" style="visibility: visible; animation-delay: 400ms; animation-name: fadeIn;">
 								  <div class="fes13-title-cont">
 								  	<div class="fes13-box-icon">
@@ -189,218 +200,207 @@
 								</div>
 							</div>
 
+                <div class="col-xs-12 col-sm-4 col-md-6">
+                  <div class="fes4-box wow fadeIn" data-wow-delay="800ms" style="visibility: visible; animation-delay: 800ms; animation-name: fadeIn;">
+                    <div class="fes13-title-cont">
+                      <div class="fes13-box-icon">
+                          <img src="<?php  echo base_url(); ?>assets/images/icons/c.png" class="img-responsive">
+                      </div>
+                      <h3 class="font-montserrat"><strong>Creative</strong></h3>
+                    </div>
+                    <div>
+                    We are all about catering printing needs through a wide range of channels, with innovative and strategic creative direction.
+                    </div>
+                  </div>
+                </div>
+                <div class="col-xs-12 col-sm-4 col-md-6">
+                  <div class="fes4-box wow fadeIn" data-wow-delay="1000ms" style="visibility: visible; animation-delay: 1000ms; animation-name: fadeIn;">
+                    <div class="fes13-title-cont">
+                      <div class="fes13-box-icon">
+                          <img src="<?php  echo base_url(); ?>assets/images/icons/d.png" class="img-responsive">
+                      </div>
+                      <h3 class="font-montserrat"><strong>Delivery</strong></h3>
+                    </div>
+                    <div>
+                   A high-volume printing, delivering high performance services that exceed customers' expectations.
+                    </div>
+                  </div>
+                </div>
+                </div>
+
 						</div>
-						<div class="row">
 
-              <div class="col-xs-12 col-sm-4 col-md-4">
-                <!-- <div class="fes4-box wow fadeIn" data-wow-delay="600ms" style="visibility: visible; animation-delay: 600ms; animation-name: fadeIn;">
-								  <div class="fes13-title-cont">
-								  	<div class="fes13-box-icon">
-								  		<div class="icon icon-basic-target"></div>
-								  	</div>
-								  	<h3 class="font-montserrat"><strong>Branding</strong></h3>
-								  </div>
-								  <div>
-								    Donec vel luctus nisi in sem fermentum blat. In nec elit solliudin, elementum, dictum pur quam volutpat suscipit antena.
-								  </div>
-								</div> -->
-							</div>
-							<div class="col-xs-12 col-sm-4 col-md-4">
-                <div class="fes4-box wow fadeIn" data-wow-delay="800ms" style="visibility: visible; animation-delay: 800ms; animation-name: fadeIn;">
-								  <div class="fes13-title-cont">
-								  	<div class="fes13-box-icon">
-								  		  <img src="<?php  echo base_url(); ?>assets/images/icons/c.png" class="img-responsive">
-								  	</div>
-								  	<h3 class="font-montserrat"><strong>Creative</strong></h3>
-								  </div>
-								  <div>
-								  We are all about catering printing needs through a wide range of channels, with innovative and strategic creative direction.
-								  </div>
-								</div>
-							</div>
-              <div class="col-xs-12 col-sm-4 col-md-4">
-                <div class="fes4-box wow fadeIn" data-wow-delay="1000ms" style="visibility: visible; animation-delay: 1000ms; animation-name: fadeIn;">
-								  <div class="fes13-title-cont">
-								  	<div class="fes13-box-icon">
-								  		  <img src="<?php  echo base_url(); ?>assets/images/icons/d.png" class="img-responsive">
-								  	</div>
-								  	<h3 class="font-montserrat"><strong>Delivery</strong></h3>
-								  </div>
-								  <div>
-								 A high-volume printing, delivering high performance services that exceed customers' expectations.
-								  </div>
-								</div>
-							</div>
-
-            </div>
 					</div>
 				</div>
 
 
         <div class="page-section">
-                  <div class="relative bg-gray">
+          <div class="relative bg-gray">
 
-                    <div class="container">
-                      <div class="pt-80-b-30-cont">
+            <div class="container">
+              <div class="pt-80-b-30-cont">
 
-                        <!-- TITLE -->
-                      	<div class="mb-10">
-                      	  <h2 class="section-title2 font-montserrat"><strong>Recent Works</strong></h2>
-                      	</div>
+                <!-- TITLE -->
+              	<div class="mb-10">
+              	  <h2 class="section-title2 font-montserrat"><strong>Our Works</strong></h2>
+              	</div>
 
-                   			<!-- PORTFOLIO FILTER -->
-                   			<div class="pl-xxs-10">
-
-                   			  <ul class="port-filter">
-                   			  	<li>
-                   			  		<a href="#" class="filter active" data-filter="*">All Projects</a>
-                   			  	</li>
-                   			  	<li>
-                   			  		<a href="#" class="filter" data-filter=".development">Development</a>
-                   			  	</li>
-                   			  	<li>
-                   			  		<a href="#" class="filter" data-filter=".design">Design</a>
-                   			  	</li>
-                   			  	<li>
-                   			  		<a href="#" class="filter" data-filter=".photography">Photography</a>
-                   			  	</li>
-                   			  </ul>
-
-                   			</div>
-
-                      </div>
-                    </div>
-
-                    <!-- ITEMS GRID -->
-                    <ul class="port-grid masonry clearfix" id="items-grid" style="position: relative; height: 645.75px;">
-
-                      <!-- Item -->
-                      <li class="port-item mix design" style="position: absolute; left: 0px; top: 0px;">
-                        <a href="portfolio-single1.html">
-                          <div class="port-img-overlay">
-                            <img class="port-main-img" src="<?php echo base_url();  ?>assets/images/portfolio/image1.jpg" alt="img">
-                          </div>
-                          <div class="port-overlay-cont">
-                            <div class="port-title-cont2">
-                              <h3 class="font-montserrat">Minimalism</h3>
-                              <span>design</span>
-                            </div>
-                          </div>
-                        </a>
-                      </li>
-
-                      <!-- Item big -->
-                      <li class="port-item mix photography" style="position: absolute; left: 337px; top: 0px;">
-                        <a href="portfolio-single1.html">
-                          <div class="port-img-overlay">
-                            <img class="port-main-img" src="<?php echo base_url();  ?>assets/images/portfolio/image2.jpg" alt="img">
-                          </div>
-                          <div class="port-overlay-cont">
-                            <div class="port-title-cont2">
-                              <h3 class="font-montserrat">Iceland Beach</h3>
-                              <span>photography</span>
-                            </div>
-                          </div>
-                        </a>
-                      </li>
-
-                      <!-- Item -->
-                      <li class="port-item mix photography" style="position: absolute; left: 674px; top: 0px;">
-                        <a href="portfolio-single1.html">
-                          <div class="port-img-overlay">
-                            <img class="port-main-img" src="<?php echo base_url();  ?>assets/images/portfolio/image3.jpg" alt="img">
-                          </div>
-                          <div class="port-overlay-cont">
-                            <div class="port-title-cont2">
-                              <h3 class="font-montserrat">Metal Bridge</h3>
-                              <span>photography</span>
-                            </div>
-                          </div>
-                        </a>
-                      </li>
-
-                      <!-- Item -->
-                      <li class="port-item mix design" style="position: absolute; left: 1011px; top: 0px;">
-                        <a href="portfolio-single1.html">
-                          <div class="port-img-overlay">
-                            <img class="port-main-img" src="<?php echo base_url();  ?>assets/images/portfolio/image4.jpg" alt="img">
-                          </div>
-                          <div class="port-overlay-cont">
-                            <div class="port-title-cont2">
-                              <h3 class="font-montserrat">Brochure Design</h3>
-                              <span>design</span>
-                            </div>
-                          </div>
-                        </a>
-                      </li>
-
-                      <!-- Item big -->
-                      <li class="port-item mix photography" style="position: absolute; left: 0px; top: 215px;">
-                        <a href="portfolio-single1.html">
-                          <div class="port-img-overlay">
-                            <img class="port-main-img" src="<?php echo base_url();  ?>assets/images/portfolio/image5.jpg" alt="img">
-                          </div>
-                          <div class="port-overlay-cont">
-                            <div class="port-title-cont2">
-                              <h3 class="font-montserrat">Black White Surfer</h3>
-                              <span>photography</span>
-                            </div>
-                          </div>
-                        </a>
-                      </li>
-
-                      <!-- Item -->
-                      <li class="port-item mix development" style="position: absolute; left: 674px; top: 215px;">
-                        <a href="portfolio-single1.html">
-                          <div class="port-img-overlay">
-                            <img class="port-main-img" src="<?php echo base_url();  ?>assets/images/portfolio/image6.jpg" alt="img">
-                          </div>
-                          <div class="port-overlay-cont">
-                            <div class="port-title-cont2">
-                              <h3 class="font-montserrat">Minimalist Watches</h3>
-                              <span>development</span>
-                            </div>
-                          </div>
-                        </a>
-                      </li>
-
-                      <!-- Item big -->
-                      <li class="port-item mix development" style="position: absolute; left: 1011px; top: 215px;">
-                        <a href="portfolio-single1.html">
-                          <div class="port-img-overlay">
-                            <img class="port-main-img" src="<?php echo base_url();  ?>assets/images/portfolio/image7.jpg" alt="img">
-                          </div>
-                          <div class="port-overlay-cont">
-                            <div class="port-title-cont2">
-                              <h3 class="font-montserrat">Architecture</h3>
-                              <span>development</span>
-                            </div>
-                          </div>
-                        </a>
-                      </li>
-
-                      <!-- Item -->
-                      <li class="port-item mix photography" style="position: absolute; left: 337px; top: 430px;">
-                        <a href="portfolio-single1.html">
-                          <div class="port-img-overlay">
-                            <img class="port-main-img" src="<?php echo base_url();  ?>assets/images/portfolio/image8.jpg" alt="img">
-                          </div>
-                          <div class="port-overlay-cont">
-                            <div class="port-title-cont2">
-                              <h3 class="font-montserrat">Swimming Pool</h3>
-                              <span>photography</span>
-                            </div>
-                          </div>
-                        </a>
-                      </li>
-
-                      <!-- Item -->
+           			<!-- PORTFOLIO FILTER -->
 
 
-                    </ul>
+              </div>
+            </div>
+
+            <!-- ITEMS GRID -->
+            <ul class="port-grid masonry clearfix" id="items-grid" style="position: relative; height: 757.75px;">
+
+              <!-- Item -->
+              <li class="port-item mix design" style="position: absolute; left: 0px; top: 0px;">
+                <a href="#">
+                  <div class="port-img-overlay">
+                    <img class="port-main-img" src="<?php echo base_url();  ?>assets/images/portfolio/1.jpg" alt="img">
 
                   </div>
-                </div>
+                  <div class="port-overlay-cont">
+                    <div class="port-title-cont2">
+                      <h3 class="font-montserrat">Newsletters</h3>
+
+                    </div>
+                  </div>
+                </a>
+              </li>
+
+              <!-- Item big -->
+              <li class="port-item mix photography" style="position: absolute; left: 395px; top: 0px;">
+                <a href="#">
+                  <div class="port-img-overlay">
+                    <img class="port-main-img" src="<?php echo base_url();  ?>assets/images/portfolio/3.jpg" alt="img">
+
+                  </div>
+                  <div class="port-overlay-cont">
+                    <div class="port-title-cont2">
+                      <h3 class="font-montserrat">Catalogue</h3>
+
+                    </div>
+                  </div>
+                </a>
+              </li>
+
+              <!-- Item -->
+              <li class="port-item mix photography" style="position: absolute; left: 791px; top: 0px;">
+                <a href="#">
+                  <div class="port-img-overlay">
+                    <img class="port-main-img" src="<?php echo base_url();  ?>assets/images/portfolio/5.jpg" alt="img">
+                  </div>
+                  <div class="port-overlay-cont">
+                    <div class="port-title-cont2">
+                      <h3 class="font-montserrat">Diary</h3>
+
+                    </div>
+                  </div>
+                </a>
+              </li>
+
+              <!-- Item -->
+              <li class="port-item mix design" style="position: absolute; left: 1187px; top: 0px;">
+                <a href="#">
+                  <div class="port-img-overlay">
+                    <img class="port-main-img" src="<?php echo base_url();  ?>assets/images/portfolio/8.jpg" alt="img">
+                      </div>
+                  <div class="port-overlay-cont">
+                    <div class="port-title-cont2">
+                      <h3 class="font-montserrat">Branding Tags</h3>
+
+                    </div>
+                  </div>
+                </a>
+              </li>
+
+              <!-- Item big -->
+              <li class="port-item mix photography" style="position: absolute; left: 0px; top: 252px;">
+                <a href="#">
+                  <div class="port-img-overlay">
+                    <img class="port-main-img" src="<?php echo base_url();  ?>assets/images/portfolio/2.jpg" alt="img">
+
+                  </div>
+                  <div class="port-overlay-cont">
+                    <div class="port-title-cont2">
+                      <h3 class="font-montserrat">Calendars</h3>
+
+                    </div>
+                  </div>
+                </a>
+              </li>
+
+              <!-- Item -->
+              <li class="port-item mix development" style="position: absolute; left: 791px; top: 252px;">
+                <a href="#">
+                  <div class="port-img-overlay">
+                    <img class="port-main-img" src="<?php echo base_url();  ?>assets/images/portfolio/7.jpg" alt="img">
+
+                  </div>
+                  <div class="port-overlay-cont">
+                    <div class="port-title-cont2">
+                      <h3 class="font-montserrat">Notebooks</h3>
+
+                    </div>
+                  </div>
+                </a>
+              </li>
+
+              <!-- Item big -->
+              <li class="port-item mix development" style="position: absolute; left: 1187px; top: 252px;">
+                <a href="#">
+                  <div class="port-img-overlay">
+                    <img class="port-main-img" src="<?php echo base_url();  ?>assets/images/portfolio/9.jpg" alt="img">
+                  </div>
+                  <div class="port-overlay-cont">
+                    <div class="port-title-cont2">
+                      <h3 class="font-montserrat">Annual Reports</h3>
+
+                    </div>
+                  </div>
+                </a>
+              </li>
+
+              <!-- Item -->
+              <li class="port-item mix photography" style="position: absolute; left: 791px; top: 505px;">
+                <a href="#">
+                  <div class="port-img-overlay">
+                  <img class="port-main-img" src="<?php echo base_url();  ?>assets/images/portfolio/4.jpg" alt="img">
+                  </div>
+                  <div class="port-overlay-cont">
+                    <div class="port-title-cont2">
+                      <h3 class="font-montserrat">Wedding Cards</h3>
+
+                    </div>
+                  </div>
+                </a>
+              </li>
+
+              <!-- Item -->
+              <li class="port-item mix development" style="position: absolute; left: 395px; top: 505px;">
+                <a href="#">
+                  <div class="port-img-overlay">
+                    <img class="port-main-img" src="<?php echo base_url();  ?>assets/images/portfolio/6.jpg" alt="img" style="    margin-bottom: -5px;">
+                  </div>
+                  <div class="port-overlay-cont">
+                    <div class="port-title-cont2">
+                      <h3 class="font-montserrat">Brochures</h3>
+
+                    </div>
+                  </div>
+                </a>
+              </li>
+
+            </ul>
+
+          </div>
+        </div>
+
+
+
+
 
 <!-- WORK PROCESS 2 FONT MONTSERRAT -->
 <div class="container-fluid pt-100">
@@ -451,79 +451,9 @@
     </div>
 </div>
 
-<!-- TESTIMONIALS CAROUSEL 3 FONT MONTSERRAT -->
-<div class="pt-110-b-80-cont pb-md-80 owl-plugin fullwidth-slider owl-bg-black parallax-section font-white" style="background: url(<?php echo base_url(); ?>assets/images/work-proc-bg3.jpg);" data-stellar-background-ratio="0.5" data-stellar-vertical-offset="50">
-
-    <!-- Slide Item -->
-    <div class="container">
-        <div class="relative">
-            <div class="row">
-
-                <div class="col-md-3">
-                    <div class="ts3-author-cont">
-                        <div class="ts3-author-img">
-                            <img class="img-circle" src="<?php echo base_url(); ?>assets/images/testimonials/ts-author.jpg" alt="photo">
-                        </div>
-                        <div class="ts-author-info text-center">
-                            <div class="ts-name font-white">
-                                <strong>Amanda Eniston</strong>
-                            </div>
-                            <div class="ts-type">Doodle inc.</div>
-                        </div>
-
-                    </div>
-                </div>
-
-                <div class="col-md-9">
-                    <blockquote class="testimonial-3">
-                        <p class="font-montserrat font-white">Nunc nec dictum purus. Nam porttitor molestie dolor nec lacinia. Donec placerat magna erat, non eleifend neque convallis at. Morbi felis sem, molestie, blandit ac quam. Fusce aliquet, est at rhoncus aliquam vehicu.</p>
-                    </blockquote>
-                </div>
-
-            </div>
-        </div>
-    </div>
 
 
 
-
-
-</div>
-
-<!-- CLIENTS 2 -->
-<div class="page-section p-80-cont">
-    <div class="container">
-
-        <div class="row">
-
-            <div class="col-xs-6 col-sm-2 client2-item">
-                <img alt="client" src="<?php echo base_url(); ?>assets/images/clients/2-9.png">
-            </div>
-
-            <div class="col-xs-6 col-sm-2 client2-item">
-                <img alt="client" src="<?php echo base_url(); ?>assets/images/clients/3.png">
-            </div>
-
-            <div class="col-xs-6 col-sm-2 client2-item">
-                <img alt="client" src="<?php echo base_url(); ?>assets/images/clients/5.png">
-            </div>
-
-            <div class="col-xs-6 col-sm-2 client2-item">
-                <img alt="client" src="<?php echo base_url(); ?>assets/images/clients/4.png">
-            </div>
-
-            <div class="col-xs-6 col-sm-2 client2-item">
-                <img alt="client" src="<?php echo base_url(); ?>assets/images/clients/8.png">
-            </div>
-
-            <div class="col-xs-6 col-sm-2 client2-item">
-                <img alt="client" src="<?php echo base_url(); ?>assets/images/clients/2.png">
-            </div>
-
-        </div>
-
-    </div>
-</div>
 <script>
 $("#homemenu").addClass("current");
 </script>

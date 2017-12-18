@@ -5,12 +5,10 @@
     <title>Ace Data India</title>
     <meta charset=utf-8>
 
-
     <meta name="description" content="Ace Data ">
 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="theme-color" content="#2a2b2f">
-
 
     <!-- CSS -->
     <!--  GOOGLE FONT -->
@@ -33,35 +31,35 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="<?php echo base_url(); ?>assets/js/bootstrap.min.js"></script>
 
-
 </head>
 <style>
-.page-title2{
-  text-align: left;
-}
-@media screen and (min-width: 360px) and (max-width: 640px){
-    .carousel .item{
-      min-height: 0px;
+    .page-title2 {
+        text-align: left;
     }
-    .making{
-      margin-bottom: 90px;
+
+    @media screen and (min-width: 360px) and (max-width: 640px) {
+        .carousel .item {
+            min-height: 0px;
+        }
+        .making {
+            margin-bottom: 90px;
+        }
+        .listservices {
+            margin: 0px 70px !important;
+            width: 72% !important;
+        }
     }
-    .listservices {
-    margin: 0px 70px !important;
-    width: 72% !important;
-  }
-}
-.header{
-	position:relative;
-}
-.slider-container{
-	padding-top:0px;
-}
+
+    .header {
+        position: relative;
+    }
+
+    .slider-container {
+        padding-top: 0px;
+    }
 </style>
 
 <body class="font-montserrat">
-
-
 
     <div id="wrap" class="boxed ">
         <div class="grey-bg">
@@ -74,7 +72,7 @@
                             <!-- LOGO -->
                             <div class="logo-container-2">
                                 <div class="logo-2">
-                                    <a href="" class="clearfix">
+                                    <a href="<?php echo base_url(); ?>" class="clearfix">
                                         <img src="<?php echo base_url(); ?>assets/images/logo.png" class="logo-img" alt="Logo">
                                     </a>
                                 </div>
@@ -106,52 +104,31 @@
                                                 <a href="<?php echo base_url(); ?>" class="">
                                                     <div class="main-menu-title">Home</div>
                                                 </a>
-                                          </li>
-
-                                            <!-- MENU ITEM -->
-                                            <!-- <li class="parent">
-                                                <a href="<?php echo base_url(); ?>history">
+                                            </li>
+                                            <li class="parent" id="aboutmenu">
+                                                <a href="<?php echo base_url(); ?>history" class="">
                                                     <div class="main-menu-title">History</div>
                                                 </a>
-                                          </li> -->
-                                          <li class="parent" id="aboutmenu">
-                                              <a href="<?php echo base_url(); ?>about">
-                                                  <div class="main-menu-title">About Us</div>
-                                              </a>
-                                              <ul class="sub">
-                                           <li><a href="<?php echo base_url(); ?>history">History</a></li>
-                                           <li><a href="<?php echo base_url(); ?>about">Founders</a></li>
-                                           </ul>
-                                        </li>
-                                            <!-- MEGA MENU ITEM -->
+                                            </li>
+
+
                                             <li class="parent megamenu" id="servicemenu">
                                                 <a href="<?php echo base_url(); ?>service">
                                                     <div class="main-menu-title">Services</div>
                                                 </a>
-                                          </li>
-                                          <li class="parent" id="portfoliomenu">
-                                              <a href="<?php echo base_url(); ?>portfolio">
-                                                  <div class="main-menu-title">Portfolio</div>
-                                              </a>
-                                        </li>
-
-
-
-
-
+                                            </li>
+                                            <li class="parent" id="portfoliomenu">
+                                                <a href="<?php echo base_url(); ?>portfolio">
+                                                    <div class="main-menu-title">Portfolio</div>
+                                                </a>
+                                            </li>
 
                                             <!-- MENU ITEM -->
                                             <li class="parent">
                                                 <a href="">
                                                     <div class="main-menu-title">Blog</div>
                                                 </a>
-                                          </li>
-                                          <!-- <li class="parent">
-                                              <a href="<?php echo base_url(); ?>gallery">
-                                                  <div class="main-menu-title">Gallery</div>
-                                              </a>
-                                        </li> -->
-
+                                            </li>
 
 
                                             <!-- MENU ITEM -->
@@ -174,8 +151,6 @@
 
                     </div>
                     <!-- END main-menu-container -->
-
-
 
                 </div>
                 <!-- END header-wrapper -->

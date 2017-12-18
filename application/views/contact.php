@@ -1,4 +1,5 @@
-<div class="page-title-large2-cont-hidden-xs bg-gray back" style="background-image: url(<?php echo base_url(); ?>assets/page/contact.jpg);background-size:100%;height:450px;    background-repeat: no-repeat;">
+
+<div class="page-title-large2-cont back pt-400" style="background-image: url(<?php echo base_url(); ?>assets/page/contact.jpg);background-size: 100%;background-repeat: no-repeat;">
         <div class="relative container align-left">
           <div class="row">
 
@@ -7,9 +8,7 @@
             </div>
 
             <div class="col-md-4">
-              <div class="breadcrumbs2 font-poppins">
-                <a class="a-inv" href="<?php echo base_url(); ?>"></a><span class="slash-divider"></span><span class="bread-current"></span>
-              </div>
+
             </div>
 
           </div>
@@ -20,17 +19,17 @@
 
 
 
-          <div id="blockquotes2" class="page-section p-50-cont-hidden-xs bg-gray">
+          <div id="blockquotes2" class="page-section p-70-cont">
             <div class="container">
-              <blockquote class="bq2-cont text-center ls-1 font-20 pb-0">
-                <span class="test-quote-before">“</span>Get in touch if you want to make a contact, please fill the contact form below or alternatively call us on the numbers given.<span class="test-quote-after">”</span>
+              <blockquote class="bq2-cont text-center ls-1 font-20 pb-30 pt-30">
+                <span class="test-quote-before" style="font-size:65px;">Get in touch</span>
 
               </blockquote>
             </div>
           </div>
 
 
-      <div id="contact-link" class="page-section p-140-cont">
+      <div id="contact-link" class="page-section p-100-cont">
           <div class="container">
 
 
@@ -110,16 +109,17 @@
             </div>
           </div>
         </div>
-
-
-
-      <div class="page-section">
-                <div class="container-fluid">
-                  <div class="row row-sm-fix">
-                    <iframe src="https://www.google.com/maps/d/embed?mid=1FilcSdZmgoh88-qeV9UzBqxB7dY&hl=en" width="100%" height="480"></iframe>
-                    </div>
+        <div class="page-section">
+                  <div class="container-fluid">
+                    <div class="row row-sm-fix">
+                      <iframe src="https://www.google.com/maps/d/embed?mid=1FilcSdZmgoh88-qeV9UzBqxB7dY&hl=en" width="100%" height="480"></iframe>
+                      </div>
+                  </div>
                 </div>
-              </div>
+
+
+
+
               <script>
               $("#contactmenu").addClass("current");
               </script>

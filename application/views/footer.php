@@ -6,40 +6,40 @@
                 <div class="cis-cont">
                   <div class="cis-icon">
                     <!-- <div class="icon icon-basic-map"></div> -->
-                   
+
                   </div>
                   <div class="cis-text">
-                    <h3 class="font-josefin"><strong>Address</strong></h3>
-                    <b>Head Office</b>
-                    <p>28, Third Street,<br> Bharathi Colony, Peelamedu Coimbatore - 641004 , India</p>
+                    <h3 class="font-josefin"><strong>Head Office</strong></h3>
+
+                    <p>28, Third Street,<br> Bharathi Colony, Peelamedu Coimbatore - 641004 ,<br>Tamil Nadu, India</p>
                   </div>
                 </div>
               </div>
               <div class="col-md-3 col-sm-6">
-                
-                  
-				  
+
+
+
 
    <div class="cis-cont">
                   <div class="cis-icon">
                     <!-- <div class="icon icon-basic-map"></div> -->
-                   
+          
                   </div>
                   <div class="cis-text">
                     <h3 class="font-josefin"><strong>Production Unit</strong></h3>
-                  
+
                     <p>Door No.3/304 -F,<br>Kulathur Road,<br>
-L&T Neelambur by-pass Road, 
-Coimbatore 641 062, India</p>
+L&T Neelambur by-pass Road,
+Coimbatore 641 062,<br>Tamil Nadu, India</p>
                   </div>
                 </div>
 
-                  
+
               </div>
               <div class="col-md-3 col-sm-6">
                 <div class="cis-cont">
                   <div class="cis-icon">
-                  
+
                   </div>
                   <div class="cis-text">
                     <h3 class="font-josefin"><strong>Email Us</strong></h3>
@@ -50,24 +50,22 @@ Coimbatore 641 062, India</p>
               <div class="col-md-3 col-sm-6">
 			  <div class="cis-cont">
                   <div class="cis-icon">
-                 
+
                   </div>
                   <div class="cis-text">
                     <h3 class="font-josefin"><strong>Call Us</strong></h3>
-                    <p>0422 - 2561500, 2561005, 2561050, <br>98942 60106 </p>
+                    <p>+91-422 - 2561500, <br>+91-422 - 2561005, <br>+91-422 - 2561050, <br>+91-98942- 60106 </p>
                   </div>
                 </div>
                 <div class="cis-cont">
-                 
+
 
                   <div class="cis-text" style="padding-top:80px;">
-                   
+
                     <div class="footer-soc-a">
                       <a href="" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
                       <a href="" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
-                      <!-- <a href="https://www.behance.net/abcgomel" title="Behance" target="_blank"><i class="fa fa-behance"></i></a> -->
                       <a href="" title="LinkedIn+" target="_blank"><i class="fa fa-linkedin"></i></a>
-                      <!-- <a href="http://themeforest.net/user/abcgomel/portfolio?ref=abcgomel" title="Dribbble" target="_blank"><i class="fa fa-dribbble"></i></a> -->
                     </div>
                   </div>
                 </div>

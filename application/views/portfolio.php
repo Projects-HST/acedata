@@ -1,4 +1,4 @@
-<div class="page-title-cont page-title-large2-cont bg-gray back" style="background-image: url(<?php echo base_url(); ?>assets/page/portfolio.jpg);">
+<div class="portback " style="background-image: url(<?php echo base_url(); ?>assets/page/portfolio.jpg);background-size: cover;">
          <div class="relative container align-left">
            <div class="row">
 
@@ -20,169 +20,168 @@
              <div class="container">
                <!-- <blockquote class="bq2-cont text-center ls-1 font-20 pb-0"> -->
 
-               <p class="text-center">  <span class="test-quote-before"></span>We know every project is more than specifications, ink, and paper. We work with clients large and small across a multitude of markets. Browse through our portfolio delivered by us with precision and quality of work.<span class="test-quote-after">”</span></p>
+               <p class="text-center">  <span class="test-quote-before"></span>We know every project is more than specifications, ink, and paper. We work with clients large and small across a multitude of markets. Browse through our portfolio delivered by us with precision and quality of work.<span class="test-quote-after"></span></p>
 
                <!-- </blockquote> -->
              </div>
            </div>
 
        <!-- COTENT CONTAINER -->
-  <div class="container">
-       <div class="pt-50 pb-30 pt-xxs-80">
 
-         <div class="relative">
-           <!-- PORTFOLIO FILTER -->
+       <div class="page-section">
+         <div class="relative bg-gray">
+
            <div class="container">
+             <div class="pt-80-b-30-cont">
 
-             <ul class="port-filter font-poppins">
-               <li>
-                 <a href="#" class="filter active" data-filter="*">All Projects</a>
-               </li>
-               <li>
-                 <a href="#" class="filter" data-filter=".development">Development</a>
-               </li>
-               <li>
-                 <a href="#" class="filter" data-filter=".design">Design</a>
-               </li>
-               <li>
-                 <a href="#" class="filter" data-filter=".photography">Photography</a>
-               </li>
-             </ul>
+               <!-- TITLE -->
+              <div class="mb-10">
+                <h2 class="section-title2 font-montserrat"><strong>Our Works</strong></h2>
+              </div>
 
+                <!-- PORTFOLIO FILTER -->
+
+
+             </div>
            </div>
 
            <!-- ITEMS GRID -->
-           <ul class="port-grid port-grid-3 clearfix" id="items-grid">
+           <ul class="port-grid masonry clearfix" id="items-grid" style="position: relative; height: 757.75px;">
 
-             <!-- Item 1 -->
-             <li class="port-item mix design">
-               <a href="">
+             <!-- Item -->
+             <li class="port-item mix design" style="position: absolute; left: 0px; top: 0px;">
+               <a href="#">
                  <div class="port-img-overlay">
-                   <img class="port-main-img" src="<?php echo base_url(); ?>assets/images/portfolio/image1.jpg" alt="img" >
+                   <img class="port-main-img" src="<?php echo base_url();  ?>assets/images/portfolio/1.jpg" alt="img">
+
                  </div>
                  <div class="port-overlay-cont">
                    <div class="port-title-cont2">
-                     <h3>Minimalism</h3>
-                     <span>design</span>
+                     <h3 class="font-montserrat">Newsletters</h3>
+
                    </div>
                  </div>
                </a>
              </li>
 
-             <!-- Item 2 -->
-             <li class="port-item mix photography">
-               <a href="">
+             <!-- Item big -->
+             <li class="port-item mix photography" style="position: absolute; left: 395px; top: 0px;">
+               <a href="#">
                  <div class="port-img-overlay">
-                   <img class="port-main-img" src="<?php echo base_url(); ?>assets/images/portfolio/image2.jpg" alt="img" >
+                   <img class="port-main-img" src="<?php echo base_url();  ?>assets/images/portfolio/3.jpg" alt="img">
+
                  </div>
                  <div class="port-overlay-cont">
                    <div class="port-title-cont2">
-                     <h3>Iceland Beach</h3>
-                     <span>photography</span>
+                     <h3 class="font-montserrat">Catalogue</h3>
+
                    </div>
                  </div>
                </a>
              </li>
 
-             <!-- Item 3 -->
-             <li class="port-item mix photography">
-               <a href="">
+             <!-- Item -->
+             <li class="port-item mix photography" style="position: absolute; left: 791px; top: 0px;">
+               <a href="#">
                  <div class="port-img-overlay">
-                   <img class="port-main-img" src="<?php echo base_url(); ?>assets/images/portfolio/image3.jpg" alt="img" >
+                   <img class="port-main-img" src="<?php echo base_url();  ?>assets/images/portfolio/5.jpg" alt="img">
                  </div>
                  <div class="port-overlay-cont">
                    <div class="port-title-cont2">
-                     <h3>Metal Bridge</h3>
-                     <span>photography</span>
+                     <h3 class="font-montserrat">Diary</h3>
+
                    </div>
                  </div>
                </a>
              </li>
 
-             <!-- Item 4 -->
-             <li class="port-item mix design">
-               <a href="">
+             <!-- Item -->
+             <li class="port-item mix design" style="position: absolute; left: 1187px; top: 0px;">
+               <a href="#">
                  <div class="port-img-overlay">
-                   <img class="port-main-img" src="<?php echo base_url(); ?>assets/images/portfolio/image4.jpg" alt="img" >
-                 </div>
+                   <img class="port-main-img" src="<?php echo base_url();  ?>assets/images/portfolio/8.jpg" alt="img">
+                     </div>
                  <div class="port-overlay-cont">
                    <div class="port-title-cont2">
-                     <h3>Brochure Design</h3>
-                     <span>design</span>
+                     <h3 class="font-montserrat">Branding Tags</h3>
+
                    </div>
                  </div>
                </a>
              </li>
 
-             <!-- Item 5 -->
-             <li class="port-item mix photography">
-               <a href="">
+             <!-- Item big -->
+             <li class="port-item mix photography" style="position: absolute; left: 0px; top: 252px;">
+               <a href="#">
                  <div class="port-img-overlay">
-                   <img class="port-main-img" src="<?php echo base_url(); ?>assets/images/portfolio/image5.jpg" alt="img" >
+                   <img class="port-main-img" src="<?php echo base_url();  ?>assets/images/portfolio/2.jpg" alt="img">
+
                  </div>
                  <div class="port-overlay-cont">
                    <div class="port-title-cont2">
-                     <h3>Black White Surfer</h3>
-                     <span>photography</span>
+                     <h3 class="font-montserrat">Calendars</h3>
+
                    </div>
                  </div>
                </a>
              </li>
 
-             <!-- Item 6 -->
-             <li class="port-item mix development">
-               <a href="">
+             <!-- Item -->
+             <li class="port-item mix development" style="position: absolute; left: 791px; top: 252px;">
+               <a href="#">
                  <div class="port-img-overlay">
-                   <img class="port-main-img" src="<?php echo base_url(); ?>assets/images/portfolio/image6.jpg" alt="img" >
+                   <img class="port-main-img" src="<?php echo base_url();  ?>assets/images/portfolio/7.jpg" alt="img">
+
                  </div>
                  <div class="port-overlay-cont">
                    <div class="port-title-cont2">
-                     <h3>Minimalist Watches</h3>
-                     <span>development</span>
+                     <h3 class="font-montserrat">Notebooks</h3>
+
                    </div>
                  </div>
                </a>
              </li>
 
-             <!-- Item 7 -->
-             <li class="port-item mix development">
-               <a href="">
+             <!-- Item big -->
+             <li class="port-item mix development" style="position: absolute; left: 1187px; top: 252px;">
+               <a href="#">
                  <div class="port-img-overlay">
-                   <img class="port-main-img" src="<?php echo base_url(); ?>assets/images/portfolio/image7.jpg" alt="img" >
+                   <img class="port-main-img" src="<?php echo base_url();  ?>assets/images/portfolio/9.jpg" alt="img">
                  </div>
                  <div class="port-overlay-cont">
                    <div class="port-title-cont2">
-                     <h3>Architecture</h3>
-                     <span>development</span>
+                     <h3 class="font-montserrat">Annual Reports</h3>
+
                    </div>
                  </div>
                </a>
              </li>
 
-             <!-- Item 8 -->
-             <li class="port-item mix photography">
-               <a href="">
+             <!-- Item -->
+             <li class="port-item mix photography" style="position: absolute; left: 791px; top: 505px;">
+               <a href="#">
                  <div class="port-img-overlay">
-                   <img class="port-main-img" src="<?php echo base_url(); ?>assets/images/portfolio/image8.jpg" alt="img" >
+                 <img class="port-main-img" src="<?php echo base_url();  ?>assets/images/portfolio/4.jpg" alt="img">
                  </div>
                  <div class="port-overlay-cont">
                    <div class="port-title-cont2">
-                     <h3>Swimming Pool</h3>
-                     <span>photography</span>
+                     <h3 class="font-montserrat">Wedding Cards</h3>
+
                    </div>
                  </div>
                </a>
              </li>
 
-             <!-- Item 9 -->
-             <li class="port-item mix development">
-               <a href="">
-                 <div class="port-img-overlay"><img class="port-main-img" src="<?php echo base_url(); ?>assets/images/portfolio/image9.jpg" alt="img" >
+             <!-- Item -->
+             <li class="port-item mix development" style="position: absolute; left: 395px; top: 505px;">
+               <a href="#">
+                 <div class="port-img-overlay">
+                   <img class="port-main-img" src="<?php echo base_url();  ?>assets/images/portfolio/6.jpg" alt="img" style="    margin-bottom: -5px;">
                  </div>
                  <div class="port-overlay-cont">
                    <div class="port-title-cont2">
-                     <h3>Spacesuit</h3>
-                     <span>development</span>
+                     <h3 class="font-montserrat">Brochures</h3>
+
                    </div>
                  </div>
                </a>
@@ -191,10 +190,7 @@
            </ul>
 
          </div>
-
-
        </div>
-   </div>
-   <script>
-   $("#portfoliomenu").addClass("current");
-   </script>
+<script type="text/javascript">
+  $("#portfoliomenu").addClass("current");
+</script>
